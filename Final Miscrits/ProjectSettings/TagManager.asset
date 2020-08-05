@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - training
+  - BackGround
+  - Grass
+  - ClickableBackground
+  - UIDraggable
+  - Content
+  - scriptsContainer
+  - Screen1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - background
+  - ClickableBackground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: skybox
+    uniqueID: 2470280883
+    locked: 0
+  - name: mask
+    uniqueID: 3529163847
+    locked: 0
+  - name: background
+    uniqueID: 1938223485
+    locked: 0
+  - name: ClickableBackground
+    uniqueID: 2364091583
+    locked: 0
+  - name: player
+    uniqueID: 2794040167
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

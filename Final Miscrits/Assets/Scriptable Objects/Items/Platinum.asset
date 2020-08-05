@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bab9c84d4ec5d4a9452104d890d8fa, type: 3}
+  m_Name: Platinum
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiMiscritImageDisplay: {fileID: 0}
+  uiMiscritElementDisplay: {fileID: 0}
+  uiMiscritName: 
+  amount: 10000
+  type: 6
+  description: 
